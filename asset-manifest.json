@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac8a4da8.css",
+    "main.js": "/static/js/main.9d79a8ae.js",
+    "static/media/Group 95 (2).png": "/static/media/Group 95 (2).238268712768833c0244.png",
+    "static/media/Group 100.png": "/static/media/Group 100.461ee9cfde04e447a79d.png",
+    "static/media/Group 95.png": "/static/media/Group 95.61a135b9692c864ae769.png",
+    "static/media/Group 98.png": "/static/media/Group 98.ccb5058caf7e1ddc8bbc.png",
+    "static/media/airtel.png": "/static/media/airtel.4f3c01e006541efd6d3d.png",
+    "static/media/9mobile.png": "/static/media/9mobile.3ef335742b1a6a786029.png",
+    "static/media/Spectranet-Data-Plans 1.jpg": "/static/media/Spectranet-Data-Plans 1.dfcfaeb245c401b4aeab.jpg",
+    "static/media/glo.png": "/static/media/glo.7ef9081d2a2484fc8332.png",
+    "static/media/download (5) 1.png": "/static/media/download (5) 1.d7f8e0a4d4153f1cdd11.png",
+    "static/media/logo_xmas.png": "/static/media/logo_xmas.2b277bd4806fdbbaac8f.png",
+    "index.html": "/index.html",
+    "main.ac8a4da8.css.map": "/static/css/main.ac8a4da8.css.map",
+    "main.9d79a8ae.js.map": "/static/js/main.9d79a8ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac8a4da8.css",
+    "static/js/main.9d79a8ae.js"
+  ]
+}
