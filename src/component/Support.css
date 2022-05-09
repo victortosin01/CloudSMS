@@ -1,0 +1,72 @@
+.contact {
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+    padding-bottom: 20px;
+}
+
+.form {
+    background-color: #096888;
+}
+
+.contain {
+    width: 50%;
+    margin: auto;
+    background-color: #ffffff;
+    padding: 20px 30px;
+    /* margin-top: 20px; */
+    /* position: absolute; */
+}
+
+.form .container {
+    width: 50%;
+    margin: auto;
+    background-color: #ffffff;
+    padding: 20px 30px;
+    display: flex;
+    justify-content: space-between;
+    /* margin-top: 20px; */
+    /* padding-top: 100px; */
+}
+
+.container1 {
+    width: 40%;
+}
+
+.container2 {
+    width: 40%;
+}
+
+.contact h1 {
+    padding-left: 50px;
+}
+
+input[type=text],
+select,
+textarea {
+    width: 100%;
+    padding: 20px 12px;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    outline: none;
+    display: flex;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #2A809C;
+    color: white;
+    padding: 20px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    width: 50%;
+}
+
+input[type=submit]:hover {
+    background-color: #58abc7;
+}
